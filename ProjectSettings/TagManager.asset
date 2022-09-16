@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gun Button
+  - Crush Button
+  - Fire Button
+  - Crush Trigger
+  - Fall Trigger
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Pain
+  - Interactable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Hazards
+    uniqueID: 1966708969
+    locked: 0
+  - name: Player
+    uniqueID: 3981143891
+    locked: 0
+  - name: Button
+    uniqueID: 3013199157
+    locked: 0
+  - name: AbovePlayer
+    uniqueID: 4227037441
+    locked: 0
